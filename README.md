@@ -15,3 +15,5 @@ See *zap_test.go* use cases.
 
 - [ ] Add `guance-syncer` to push logging data to Guance Cloud
 - [ ] Add trace-id inject(use [otelzap](https://github.com/uptrace/opentelemetry-go-extra/tree/main/otelzap))
+- [ ] Add metrics on logger
+- [ ] Add more testing
